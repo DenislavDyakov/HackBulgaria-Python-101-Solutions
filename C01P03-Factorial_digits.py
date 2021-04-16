@@ -1,6 +1,6 @@
 '''
 Implement a function fact_digits(n), that takes an integer and returns the sum of the factorials of each digit of n.
-For example, if n = 145, we want 1! + 4! + 5!.
+For example, if n = 145, we want 1! + 4! + 5!
 '''
 
 def factorial(number):
