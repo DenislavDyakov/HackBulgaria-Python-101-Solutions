@@ -25,4 +25,5 @@ def sum_of_digits(digits):
 
      return(sum_digits)
 
+# testing the function
 print(sum_of_digits(-101325132435356)) # == 42
